@@ -1,0 +1,158 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4080 >>
+stream
+BT
+/F2 16 Tf
+50 785 Td
+(KASHMIR COLLEGE OF ENGINEERING & TECHNOLOGY) Tj
+/F1 10 Tf
+0 -18 Td
+(Approved by AICTE New Delhi | Affiliated with the University of Kashmir) Tj
+0 -14 Td
+(Campus: Ranbirgarh Narbal, Srinagar - 190017, Jammu & Kashmir | Web: https://kcet.edu.in) Tj
+/F2 13 Tf
+0 -30 Td
+(B.Tech in Electronics & Communication - Complete Syllabus) Tj
+/F1 10 Tf
+0 -16 Td
+(Approved AICTE 4-Year Scheme & Detailed Syllabus Booklet  |  Category: Syllabus) Tj
+0 -14 Td
+(Curriculum Model: AICTE Model Curriculum / University of Kashmir Ordinances) Tj
+/F2 11 Tf
+0 -22 Td
+(Semester 3) Tj
+/F1 9 Tf
+0 -14 Td
+(  * ECE-301: Mathematics-III \(Complex Variables & Transforms\) \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-302: Electronic Devices & Circuit Theory \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-303: Network Analysis & Synthesis \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-304: Signals & Linear Systems \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-305: Digital System Design & Verilog \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-306P: Analog Electronics Circuits Lab \(2 Credits\)) Tj
+0 -14 Td
+(  * ECE-307P: Digital Logic & Simulation Lab \(2 Credits\)) Tj
+/F2 11 Tf
+0 -22 Td
+(Semester 4) Tj
+/F1 9 Tf
+0 -14 Td
+(  * ECE-401: Analog Communication Systems \(AM, FM, PM\) \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-402: Linear Integrated Circuits & Op-Amps \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-403: Electromagnetic Field Theory \(EMFT\) \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-404: Microprocessor & Microcontroller Architectures \(8085/8086\) \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-405: Probability Theory & Stochastic Processes \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-406P: Analog Communication Lab \(2 Credits\)) Tj
+0 -14 Td
+(  * ECE-407P: Linear Integrated Circuits Lab \(2 Credits\)) Tj
+/F2 11 Tf
+0 -22 Td
+(Semester 5) Tj
+/F1 9 Tf
+0 -14 Td
+(  * ECE-501: Digital Communication Systems \(QPSK, QAM, Coding\) \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-502: Digital Signal Processing \(DSP & Filter Design\) \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-503: Control Systems Engineering \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-504: Embedded Systems & ARM Cortex \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-PE1: Professional Elective I: Electronic Instrumentation \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-505P: Digital Communication & DSP Lab \(2 Credits\)) Tj
+0 -14 Td
+(  * ECE-506P: Embedded Systems & Microcontrollers Lab \(2 Credits\)) Tj
+/F2 11 Tf
+0 -22 Td
+(Semester 6) Tj
+/F1 9 Tf
+0 -14 Td
+(  * ECE-601: VLSI Design & CMOS Technology \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-602: Antenna & Wave Propagation \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-603: Microwave & Radar Engineering \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-604: Optical Fiber Communication Systems \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-PE2: Professional Elective II: Wireless Sensor Networks \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-605P: VLSI CAD & FPGA Simulation Lab \(2 Credits\)) Tj
+0 -14 Td
+(  * ECE-606P: Microwave & Optical Fiber Lab \(2 Credits\)) Tj
+/F2 11 Tf
+0 -22 Td
+(Semester 7) Tj
+/F1 9 Tf
+0 -14 Td
+(  * ECE-701: Wireless & 5G Cellular Communications \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-702: Internet of Things \(IoT\) Architectures & Protocols \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-PE3: Professional Elective III: Biomedical Electronics \(3 Credits\)) Tj
+0 -14 Td
+(  * OE-701: Open Elective I: Renewable Energy & Power Systems \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-703P: Capstone Project Stage-I \(4 Credits\)) Tj
+0 -14 Td
+(  * ECE-704I: Industrial Summer Internship Evaluation \(2 Credits\)) Tj
+/F2 11 Tf
+0 -22 Td
+(Semester 8) Tj
+/F1 9 Tf
+0 -14 Td
+(  * ECE-801: Major Capstone Project Stage-II \(Hardware / Embedded Defense\) \(10 Credits\)) Tj
+0 -14 Td
+(  * ECE-PE4: Professional Elective IV: Satellite & Deep Space Communication \(3 Credits\)) Tj
+0 -14 Td
+(  * OE-801: Open Elective II: Nanoelectronics & Quantum Computing \(3 Credits\)) Tj
+0 -14 Td
+(  * ECE-802V: Comprehensive Technical Viva-Voce \(2 Credits\)) Tj
+/F1 8 Tf
+0 -30 Td
+(Official Academic Document issued by Academic Affairs & Examination Cell, KCET Srinagar.) Tj
+0 -12 Td
+(Helpline: +91 88994 12793, +91 96221 61642 | Email: info@kcet.edu.in) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000004392 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4528
+%%EOF

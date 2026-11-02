@@ -1,0 +1,20 @@
+# Environment files
+.env
+ai.md
+
+# Storage
+storage/logs/*
+!storage/logs/.gitkeep
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/private/*
+!storage/private/.gitkeep
+storage/database.sqlite
+
+# Vendor / OS / Scratch
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
+scratch/
+

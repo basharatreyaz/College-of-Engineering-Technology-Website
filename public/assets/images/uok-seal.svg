@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" aria-label="Affiliated to University of Kashmir">
+  <circle cx="50" cy="50" r="46" fill="#FFFFFF" stroke="#0D5C4A" stroke-width="3"/>
+  <circle cx="50" cy="50" r="41" fill="#F0FDF4" stroke="#0D5C4A" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <circle cx="50" cy="50" r="30" fill="#0D5C4A"/>
+  <text x="50" y="24" font-family="'Outfit', sans-serif" font-size="6" font-weight="800" fill="#0D5C4A" text-anchor="middle" letter-spacing="0.8">AFFILIATED TO</text>
+  <text x="50" y="47" font-family="'Outfit', sans-serif" font-size="10" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">UNIV OF</text>
+  <text x="50" y="58" font-family="'Outfit', sans-serif" font-size="9" font-weight="800" fill="#FDE68A" text-anchor="middle" letter-spacing="0.5">KASHMIR</text>
+  <text x="50" y="80" font-family="'Outfit', sans-serif" font-size="5" font-weight="700" fill="#0D5C4A" text-anchor="middle" letter-spacing="0.8">ESTD. 1948</text>
+</svg>
+

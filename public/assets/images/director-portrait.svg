@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 380" width="320" height="380" aria-label="Er. Mushtaq Ahmad Mir, Managing Director KCET">
+  <defs>
+    <linearGradient id="dGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D5C4A"/>
+      <stop offset="100%" stop-color="#062E25"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Studio Backdrop -->
+  <rect width="320" height="380" fill="url(#dGrad)" rx="8"/>
+  <rect x="8" y="8" width="304" height="364" fill="none" stroke="#C98A2C" stroke-width="2" rx="6"/>
+
+  <!-- Executive Silhouette Graphic -->
+  <g fill="#E2E8F0" opacity="0.95">
+    <!-- Suit Body -->
+    <path d="M60 380 C60 280, 100 240, 160 240 C220 240, 260 280, 260 380 Z" fill="#041B16"/>
+    <!-- Shirt Collar & Silk Tie -->
+    <polygon points="160,250 145,285 175,285" fill="#FFFFFF"/>
+    <polygon points="156,285 164,285 167,360 153,360" fill="#0D5C4A"/>
+    <!-- Suit Lapels -->
+    <polygon points="120,270 145,285 130,360 110,360" fill="#0F2822"/>
+    <polygon points="200,270 175,285 190,360 210,360" fill="#0F2822"/>
+    <!-- Head / Face -->
+    <ellipse cx="160" cy="180" rx="42" ry="52" fill="#D4A373"/>
+    <!-- Hair -->
+    <path d="M118 165 C118 125, 140 120, 160 120 C180 120, 202 125, 202 165 C190 150, 130 150, 118 165 Z" fill="#1E293B"/>
+  </g>
+
+  <!-- Formal Caption Banner at Bottom -->
+  <rect x="16" y="315" width="288" height="50" rx="4" fill="#062E25" opacity="0.92" stroke="#C98A2C" stroke-width="1"/>
+  <text x="160" y="335" font-family="'Outfit', sans-serif" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">Er. Mushtaq Ahmad Mir</text>
+  <text x="160" y="352" font-family="'Outfit', sans-serif" font-size="9.5" font-weight="600" fill="#FDE68A" text-anchor="middle">Managing Director &amp; Trustee • KCET</text>
+</svg>
